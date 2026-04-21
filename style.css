@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #ffcc00;
+}
+
+section {
+    padding: 40px;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+button {
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #e60000;
+}
+
+footer {
+    background-color: #111;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
